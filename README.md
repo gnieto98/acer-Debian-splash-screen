@@ -1,0 +1,1 @@
+# acer-Debian-splash-screen
