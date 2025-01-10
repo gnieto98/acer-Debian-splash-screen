@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Acer Boot
+Description=Acer logo theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/acerboot
+ScriptFile=/usr/share/plymouth/themes/acerboot/acerboot.script
